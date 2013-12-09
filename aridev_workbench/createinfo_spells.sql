@@ -416,26 +416,26 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
 (0x4, 0x3FF, 672, "Language Dwarven"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 76252, "Languages"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 76252, "Languages"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 20583, "Nature Resistance"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 20583, "Nature Resistance"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 20582, "Quickness"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 20582, "Quickness"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 20585, "Wisp Spirit"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 20585, "Wisp Spirit"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 21009, "Elusiveness"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 21009, "Elusiveness"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 58984, "Shadowmeld"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 58984, "Shadowmeld"),
 -- Races: Night elf
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
-(0x8, 0x4BD, 671, "Language Darnassian"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Monk, Druid
+(0x8, 0x6BD, 671, "Language Darnassian"),
 -- Races: Night elf, Tauren, Troll, Worgen
 -- Classes: Druid
 (0x2000A8, 0x400, 84736, "Nature's Focus"),
