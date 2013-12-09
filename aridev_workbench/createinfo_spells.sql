@@ -395,26 +395,26 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Mage, Warlock
 (0x2, 0x180, 33702, "Blood Fury"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 20596, "Frost Resistance"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 20596, "Frost Resistance"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 20595, "Gun Specialization"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 20595, "Gun Specialization"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 20594, "Stoneform"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 20594, "Stoneform"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 59224, "Mace Specialization"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 59224, "Mace Specialization"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 92682, "Explorer"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 92682, "Explorer"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 79739, "Languages"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 79739, "Languages"),
 -- Races: Dwarf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
-(0x4, 0x1FF, 672, "Language Dwarven"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk
+(0x4, 0x3FF, 672, "Language Dwarven"),
 -- Races: Night elf
 -- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Druid
 (0x8, 0x4BD, 76252, "Languages"),
