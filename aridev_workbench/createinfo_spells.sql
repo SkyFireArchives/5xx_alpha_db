@@ -104,23 +104,23 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: All
 (0x0, 0x0, 203, "Unarmed"),
 -- Races: Human
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x1, 0x1BF, 20864, "Mace Specialization"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x1, 0x3BF, 20864, "Mace Specialization"),
 -- Races: Human
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x1, 0x1BF, 20599, "Diplomacy"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x1, 0x3BF, 20599, "Diplomacy"),
 -- Races: Human
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x1, 0x1BF, 20597, "Sword Specialization"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x1, 0x3BF, 20597, "Sword Specialization"),
 -- Races: Human
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x1, 0x1BF, 20598, "The Human Spirit"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x1, 0x3BF, 20598, "The Human Spirit"),
 -- Races: Human
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x1, 0x1BF, 59752, "Every Man for Himself"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x1, 0x3BF, 59752, "Every Man for Himself"),
 -- Races: Human
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x1, 0x1BF, 79738, "Languages"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x1, 0x3BF, 79738, "Languages"),
 -- Races: All
 -- Classes: Warrior, Paladin, Death Knight
 (0x0, 0x23, 49410, "Forceful Deflection"),
