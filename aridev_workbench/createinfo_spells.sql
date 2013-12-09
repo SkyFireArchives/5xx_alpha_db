@@ -494,47 +494,47 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
 (0x20, 0x637, 79746, "Languages"),
 -- Races: Gnome
--- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
-(0x40, 0x1B9, 20591, "Expansive Mind"),
+-- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x40, 0x3B9, 20591, "Expansive Mind"),
 -- Races: Gnome
--- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
-(0x40, 0x1B9, 20593, "Engineering Specialization"),
+-- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x40, 0x3B9, 20593, "Engineering Specialization"),
 -- Races: Gnome
--- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
-(0x40, 0x1B9, 20592, "Arcane Resistance"),
+-- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x40, 0x3B9, 20592, "Arcane Resistance"),
 -- Races: Gnome
--- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
-(0x40, 0x1B9, 92680, "Shortblade Specialization"),
+-- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x40, 0x3B9, 92680, "Shortblade Specialization"),
 -- Races: Gnome
--- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
-(0x40, 0x1B9, 79740, "Languages"),
+-- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x40, 0x3B9, 79740, "Languages"),
 -- Races: Gnome
--- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
-(0x40, 0x1B9, 7340, "Language Gnomish"),
+-- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x40, 0x3B9, 7340, "Language Gnomish"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 7341, "Language Troll"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 7341, "Language Troll"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 26290, "Bow Specialization"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 26290, "Bow Specialization"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 26297, "Berserking"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 26297, "Berserking"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 58943, "Da Voodoo Shuffle"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 58943, "Da Voodoo Shuffle"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 20555, "Regeneration"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 20555, "Regeneration"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 20557, "Beast Slaying"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 20557, "Beast Slaying"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 20558, "Throwing Specialization"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 20558, "Throwing Specialization"),
 -- Races: Troll
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Druid
-(0x80, 0x5FD, 79744, "Languages"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid
+(0x80, 0x7FD, 79744, "Languages"),
 -- Races: Goblin
 -- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
 (0x100, 0x1FD, 69269, "Language Goblin"),
