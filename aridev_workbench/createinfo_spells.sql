@@ -783,25 +783,25 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 (0x200000, 0x20, 87840, "Running Wild"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 108127, "Language Pandaren Neutral"),
+(0x400000, 0x2DD, 108127, "Language Pandaren Neutral"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 107072, "Epicurean"),
+(0x400000, 0x2DD, 107072, "Epicurean"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 107073, "Gourmand"),
+(0x400000, 0x2DD, 107073, "Gourmand"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 107074, "Inner Peace"),
+(0x400000, 0x2DD, 107074, "Inner Peace"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 107076, "Bouncy"),
+(0x400000, 0x2DD, 107076, "Bouncy"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 107079, "Quaking Palm"),
+(0x400000, 0x2DD, 107079, "Quaking Palm"),
 -- Races: Pandaren Neutral
 -- Classes: All
-(0x400000, 0x0, 131701, "Languages"),
+(0x400000, 0x2DD, 131701, "Languages"),
 -- Races: Pandaren Neutral
 -- Classes: Warrior
 (0x400000, 0x1, 128217, "Pummel (shield visual override) (DND)"),
