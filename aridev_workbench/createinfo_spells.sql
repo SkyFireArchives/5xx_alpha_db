@@ -458,44 +458,41 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Druid
 (0x2000A8, 0x400, 84738, "Celestial Focus"),
 -- Races: Undead
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage
-(0x10, 0xBD, 17737, "Language Gutterspeak"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x10, 0x3BD, 17737, "Language Gutterspeak"),
 -- Races: Undead
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x10, 0x1BD, 5227, "Underwater Breathing"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x10, 0x3BD, 5227, "Underwater Breathing"),
 -- Races: Undead
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x10, 0x1BD, 7744, "Will of the Forsaken"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x10, 0x3BD, 7744, "Will of the Forsaken"),
 -- Races: Undead
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x10, 0x1BD, 20577, "Cannibalize"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x10, 0x3BD, 20577, "Cannibalize"),
 -- Races: Undead
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x10, 0x1BD, 20579, "Shadow Resistance"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x10, 0x3BD, 20579, "Shadow Resistance"),
 -- Races: Undead
--- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x10, 0x1BD, 79747, "Languages"),
--- Races: Undead
--- Classes: Warlock
-(0x10, 0x100, 17747, "Language Gutterspeak"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x10, 0x3BD, 79747, "Languages"),
 -- Races: Tauren
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Druid
-(0x20, 0x437, 670, "Language Taurahe"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
+(0x20, 0x637, 670, "Language Taurahe"),
 -- Races: Tauren
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Druid
-(0x20, 0x437, 20549, "War Stomp"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
+(0x20, 0x637, 20549, "War Stomp"),
 -- Races: Tauren
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Druid
-(0x20, 0x437, 20550, "Endurance"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
+(0x20, 0x637, 20550, "Endurance"),
 -- Races: Tauren
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Druid
-(0x20, 0x437, 20551, "Nature Resistance"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
+(0x20, 0x637, 20551, "Nature Resistance"),
 -- Races: Tauren
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Druid
-(0x20, 0x437, 20552, "Cultivation"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
+(0x20, 0x637, 20552, "Cultivation"),
 -- Races: Tauren
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Druid
-(0x20, 0x437, 79746, "Languages"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Monk, Druid
+(0x20, 0x637, 79746, "Languages"),
 -- Races: Gnome
 -- Classes: Warrior, Rogue, Priest, Death Knight, Mage, Warlock
 (0x40, 0x1B9, 20591, "Expansive Mind"),
