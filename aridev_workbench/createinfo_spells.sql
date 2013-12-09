@@ -14,8 +14,8 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior, Paladin, Hunter, Death Knight
 (0x0, 0x27, 202, "Two-Handed Swords"),
 -- Races: All
--- Classes: Warrior, Paladin, Hunter, Rogue, Death Knight, Shaman
-(0x0, 0x6F, 196, "One-Handed Axes"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Death Knight, Shaman, Monk
+(0x0, 0x26F, 196, "One-Handed Axes"),
 -- Races: All
 -- Classes: Warrior
 (0x0, 0x1, 2457, "Battle Stance"),
@@ -128,8 +128,8 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior, Paladin, Death Knight, Shaman, Druid
 (0x0, 0x463, 199, "Two-Handed Maces"),
 -- Races: All
--- Classes: Warrior, Hunter, Rogue, Shaman, Druid
-(0x0, 0x44D, 15590, "Fist Weapons"),
+-- Classes: Warrior, Hunter, Rogue, Shaman, Monk, Druid
+(0x0, 0x64D, 15590, "Fist Weapons"),
 -- Races: All
 -- Classes: Warrior
 (0x0, 0x1, 76268, "Armor Skills"),
@@ -140,14 +140,14 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior
 (0x0, 0x1, 88163, "Attack"),
 -- Races: All
--- Classes: Warrior, Paladin, Hunter, Death Knight, Druid
-(0x0, 0x427, 200, "Polearms"),
+-- Classes: Warrior, Paladin, Hunter, Death Knight, Monk, Druid
+(0x0, 0x627, 200, "Polearms"),
 -- Races: Human, Dwarf, Night elf, Gnome, Dranei, Worgen
 -- Classes: All
 (0x20044D, 0x0, 668, "Language Common"),
 -- Races: All
--- Classes: Warrior, Hunter, Priest, Shaman, Mage, Warlock, Druid
-(0x0, 0x5D5, 227, "Staves"),
+-- Classes: Warrior, Hunter, Priest, Shaman, Mage, Warlock, Monk, Druid
+(0x0, 0x7D5, 227, "Staves"),
 -- Races: All
 -- Classes: Warrior, Paladin, Shaman
 (0x0, 0x43, 9116, "Shield"),
@@ -155,8 +155,8 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior, Paladin, Death Knight
 (0x0, 0x23, 8737, "Mail"),
 -- Races: All
--- Classes: Warrior, Paladin, Hunter, Rogue, Death Knight, Shaman, Druid
-(0x0, 0x46F, 9077, "Leather"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Death Knight, Shaman, Monk, Druid
+(0x0, 0x66F, 9077, "Leather"),
 -- Races: All
 -- Classes: Warrior, Hunter, Rogue
 (0x0, 0xD, 264, "Bows"),
@@ -191,11 +191,11 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: All
 (0x0, 0x0, 9078, "Cloth"),
 -- Races: All
--- Classes: Warrior, Paladin, Rogue, Priest, Death Knight, Shaman, Druid
-(0x0, 0x47B, 198, "One-Handed Maces"),
+-- Classes: Warrior, Paladin, Rogue, Priest, Death Knight, Shaman, Monk, Druid
+(0x0, 0x67B, 198, "One-Handed Maces"),
 -- Races: All
--- Classes: Warrior, Paladin, Hunter, Rogue, Death Knight, Mage, Warlock
-(0x0, 0x1AF, 201, "One-Handed Swords"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Death Knight, Mage, Warlock, Monk
+(0x0, 0x3AF, 201, "One-Handed Swords"),
 -- Races: Human, Dwarf, Tauren, Blood elf, Dranei
 -- Classes: Paladin
 (0x625, 0x2, 27762, "Relic"),
@@ -257,8 +257,8 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Rogue
 (0x2003DF, 0x8, 1752, "Sinister Strike"),
 -- Races: All
--- Classes: Rogue, Death Knight
-(0x0, 0x28, 674, "Dual Wield"),
+-- Classes: Warrior, Hunter, Rogue, Death Knight, Monk
+(0x0, 0x22D, 674, "Dual Wield"),
 -- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen
 -- Classes: Rogue
 (0x2003DF, 0x8, 76273, "Armor Skills"),
