@@ -774,4 +774,34 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 (0x200000, 0x20, 94293, "Enable Worgen Altered Form"),
 -- Races: Worgen
 -- Classes: Death Knight
-(0x200000, 0x20, 87840, "Running Wild");
+(0x200000, 0x20, 87840, "Running Wild"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 108127, "Language Pandaren Neutral"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 107072, "Epicurean"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 107073, "Gourmand"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 107074, "Inner Peace"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 107076, "Bouncy"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 107079, "Quaking Palm"),
+-- Races: Pandaren Neutral
+-- Classes: All
+(0x400000, 0x0, 131701, "Languages"),
+-- Races: Pandaren Neutral
+-- Classes: Warrior
+(0x400000, 0x1, 128217, "Pummel (shield visual override) (DND)"),
+-- Races: Pandaren Neutral
+-- Classes: Warrior
+(0x400000, 0x1, 123829, "Block"),
+-- Races: Pandaren Neutral
+-- Classes: Warrior
+(0x400000, 0x1, 122475, "Throw"),
