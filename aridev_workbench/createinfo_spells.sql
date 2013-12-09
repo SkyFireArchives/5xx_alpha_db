@@ -214,114 +214,84 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Races: Human, Dwarf, Tauren, Blood elf, Dranei
 -- Classes: Paladin
 (0x625, 0x2, 20208, "Paladin pushback resistance"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 3044, "Arcane Shot"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 3044, "Arcane Shot"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 75, "Auto Shot"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 75, "Auto Shot"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 82928, "Aimed Shot!"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 34082, "Hunter Passive Auras (DND)"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 34082, "Hunter Passive Auras (DND)"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 883, "Call Pet 1"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 883, "Call Pet 1"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 982, "Revive Pet"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 982, "Revive Pet"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 77442, "Focus"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 13358, "Defensive State (DND)"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 76249, "Weapon Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 24949, "Defensive State 2 (DND)"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007BF, 0x4, 76250, "Armor Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Hunter
-(0x2007BF, 0x4, 77442, "Focus"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Hunter
-(0x2007BF, 0x4, 76249, "Weapon Skills"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Hunter
-(0x2007BF, 0x4, 76250, "Armor Skills"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Hunter
-(0x2007BF, 0x4, 87324, "Focused Aim"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Hunter
-(0x2007BF, 0x4, 87816, "General Hunter Passives"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen
+(0x6007BF, 0x4, 87324, "Focused Aim"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen, Pandaren(N)
 -- Classes: Rogue
-(0x2003DF, 0x8, 1752, "Sinister Strike"),
+(0x6003DF, 0x8, 1752, "Sinister Strike"),
 -- Races: All
 -- Classes: Warrior, Hunter, Rogue, Death Knight, Monk
 (0x0, 0x22D, 674, "Dual Wield"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen, Pandaren(N)
 -- Classes: Rogue
-(0x2003DF, 0x8, 76273, "Armor Skills"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen
+(0x6003DF, 0x8, 76273, "Armor Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen, Pandaren(N)
 -- Classes: Rogue
-(0x2003DF, 0x8, 76297, "Weapon Skills"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen
+(0x6003DF, 0x8, 76297, "Weapon Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen, Pandaren(N)
 -- Classes: Rogue
-(0x2003DF, 0x8, 16092, "Defensive State (DND)"),
+(0x6003DF, 0x8, 16092, "Defensive State (DND)"),
 -- Races: All
 -- Classes: Priest, Mage, Warlock
 (0x0, 0x190, 5009, "Wands"),
 -- Races: All
 -- Classes: Priest, Mage, Warlock
 (0x0, 0x190, 5019, "Shoot"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+-- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Priest
-(0x2007FD, 0x10, 585, "Smite"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007FD, 0x10, 585, "Smite"),
+-- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Priest
-(0x2007FD, 0x10, 84733, "Holy Focus"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007FD, 0x10, 88685, "Holy Word: Sanctuary"),
+-- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Priest
-(0x2007FD, 0x10, 88685, "Holy Word: Sanctuary"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007FD, 0x10, 76301, "Weapon Skills"),
+-- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Priest
-(0x2007FD, 0x10, 88684, "Holy Word: Serenity"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Priest
-(0x2007FD, 0x10, 101062, "Flash Heal"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Priest
-(0x2007FD, 0x10, 76301, "Weapon Skills"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Priest
-(0x2007FD, 0x10, 76279, "Armor Skills"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Priest
-(0x2007FD, 0x10, 84734, "Dark Thoughts"),
--- Races: Human, Dwarf, Night elf, Undead, Tauren, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Priest
-(0x2007FD, 0x10, 77486, "Shadow Orb Power"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007FD, 0x10, 76279, "Armor Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Mage
-(0x2007DF, 0x80, 71761, "Deep Freeze Immunity State"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007DF, 0x80, 71761, "Deep Freeze Immunity State"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Mage
-(0x2007DF, 0x80, 79684, "Offensive State (DND)"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007DF, 0x80, 79684, "Offensive State (DND)"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Mage
-(0x2007DF, 0x80, 133, "Fireball"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
--- Classes: Mage
-(0x2007DF, 0x80, 92315, "Pyroblast!"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007DF, 0x80, 44614, "Frostfire Bolt"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Mage, Warlock
-(0x2007DF, 0x180, 85801, "DPS Caster Crit Damage Bonus"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007DF, 0x180, 85801, "DPS Caster Crit Damage Bonus"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Mage
-(0x2007DF, 0x80, 76298, "Weapon Skills"),
--- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen
+(0x6007DF, 0x80, 76298, "Weapon Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Gnome, Troll, Goblin, Blood elf, Dranei, Worgen, Pandaren(N)
 -- Classes: Mage
-(0x2007DF, 0x80, 76276, "Armor Skills"),
+(0x6007DF, 0x80, 76276, "Armor Skills"),
 -- Races: Human, Orc, Dwarf, Undead, Gnome, Troll, Goblin, Blood elf, Worgen
 -- Classes: Warlock
 (0x2003D7, 0x100, 688, "Summon Imp"),
@@ -370,24 +340,18 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Races: Orc
 -- Classes: Hunter
 (0x2, 0x4, 20576, "Command"),
--- Races: Orc, Dwarf, Troll, Goblin, Dranei
--- Classes: Shaman
-(0x586, 0x40, 27763, "Relic"),
 -- Races: Orc
 -- Classes: Shaman
 (0x2, 0x40, 65222, "Command"),
 -- Races: Orc
 -- Classes: Shaman
 (0x2, 0x40, 33697, "Blood Fury"),
--- Races: Orc, Dwarf, Troll, Goblin, Dranei
+-- Races: Orc, Dwarf, Troll, Goblin, Dranei, Pandaren(N)
 -- Classes: Shaman
 (0x586, 0x40, 76272, "Armor Skills"),
--- Races: Orc, Dwarf, Troll, Goblin, Dranei
+-- Races: Orc, Dwarf, Troll, Goblin, Dranei, Pandaren(N)
 -- Classes: Shaman
 (0x586, 0x40, 76296, "Weapon Skills"),
--- Races: Orc, Dwarf, Troll, Goblin, Dranei
--- Classes: Shaman
-(0x586, 0x40, 89920, "Ancestral Focus"),
 -- Races: Orc, Dwarf, Tauren, Troll, Goblin, Dranei
 -- Classes: Shaman
 (0x5A6, 0x40, 403, "Lightning Bolt"),
@@ -782,26 +746,26 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Death Knight
 (0x200000, 0x20, 87840, "Running Wild"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 108127, "Language Pandaren Neutral"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 108127, "Language Pandaren Neutral"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 107072, "Epicurean"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 107072, "Epicurean"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 107073, "Gourmand"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 107073, "Gourmand"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 107074, "Inner Peace"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 107074, "Inner Peace"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 107076, "Bouncy"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 107076, "Bouncy"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 107079, "Quaking Palm"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 107079, "Quaking Palm"),
 -- Races: Pandaren Neutral
--- Classes: All
-(0x400000, 0x2DD, 131701, "Languages"),
+-- Classes: Warrior, Hunter, Rogue, Priest, Shaman, Mage, Monk
+(0x400000, 0x25D, 131701, "Languages"),
 -- Races: Pandaren Neutral
 -- Classes: Warrior
 (0x400000, 0x1, 128217, "Pummel (shield visual override) (DND)"),
