@@ -353,20 +353,20 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: All
 (0x3B2, 0x0, 669, "Language Orcish"),
 -- Races: Orc
--- Classes: Warrior, Rogue, Mage
-(0x2, 0x89, 21563, "Command"),
+-- Classes: Warrior, Rogue, Mage, Monk
+(0x2, 0x289, 21563, "Command"),
 -- Races: Orc
 -- Classes: Warrior, Hunter, Rogue, Death Knight
 (0x2, 0x2D, 20572, "Blood Fury"),
 -- Races: Orc
--- Classes: Warrior, Hunter, Rogue, Death Knight, Shaman, Mage, Warlock
-(0x2, 0x1ED, 20573, "Hardiness"),
+-- Classes: Warrior, Hunter, Rogue, Death Knight, Shaman, Mage, Warlock, Monk
+(0x2, 0x3ED, 20573, "Hardiness"),
 -- Races: Orc
--- Classes: Warrior, Hunter, Rogue, Death Knight, Shaman, Mage, Warlock
-(0x2, 0x1ED, 20574, "Axe Specialization"),
+-- Classes: Warrior, Hunter, Rogue, Death Knight, Shaman, Mage, Warlock, Monk
+(0x2, 0x3ED, 20574, "Axe Specialization"),
 -- Races: Orc
--- Classes: Warrior, Hunter, Rogue, Death Knight, Shaman, Mage, Warlock
-(0x2, 0x1ED, 79743, "Languages"),
+-- Classes: Warrior, Hunter, Rogue, Death Knight, Shaman, Mage, Warlock, Monk
+(0x2, 0x3ED, 79743, "Languages"),
 -- Races: Orc
 -- Classes: Hunter
 (0x2, 0x4, 20576, "Command"),
