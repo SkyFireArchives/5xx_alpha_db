@@ -557,20 +557,20 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock
 (0x100, 0x1FD, 79749, "Languages"),
 -- Races: Blood elf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x200, 0x1BF, 813, "Language Thalassian"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x200, 0x3BF, 813, "Language Thalassian"),
 -- Races: Blood elf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x200, 0x1BF, 822, "Arcane Resistance"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x200, 0x3BF, 822, "Arcane Resistance"),
 -- Races: Blood elf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x200, 0x1BF, 28877, "Arcane Affinity"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x200, 0x3BF, 28877, "Arcane Affinity"),
 -- Races: Blood elf
 -- Classes: Warrior
 (0x200, 0x1, 69179, "Arcane Torrent"),
 -- Races: Blood elf
--- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock
-(0x200, 0x1BF, 79748, "Languages"),
+-- Classes: Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Monk
+(0x200, 0x3BF, 79748, "Languages"),
 -- Races: Blood elf
 -- Classes: Paladin, Priest, Mage, Warlock
 (0x200, 0x192, 28730, "Arcane Torrent"),
@@ -580,21 +580,24 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Races: Blood elf
 -- Classes: Rogue
 (0x200, 0x8, 25046, "Arcane Torrent"),
+-- Races: Blood elf
+-- Classes: Monk
+(0x200, 0x200, 129597, "Arcane Torrent"),
 -- Races: Dranei
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Shaman, Mage
-(0x400, 0xF7, 29932, "Language Draenei"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Shaman, Mage, Monk
+(0x400, 0x2F7, 29932, "Language Draenei"),
 -- Races: Dranei
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Shaman, Mage
-(0x400, 0xF7, 79741, "Languages"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Shaman, Mage, Monk
+(0x400, 0x2F7, 79741, "Languages"),
 -- Races: Dranei
--- Classes: Warrior, Paladin, Hunter, Death Knight
-(0x400, 0x27, 6562, "Heroic Presence"),
+-- Classes: Warrior, Paladin, Hunter, Death Knight, Monk
+(0x400, 0x227, 6562, "Heroic Presence"),
 -- Races: Dranei
 -- Classes: Warrior
 (0x400, 0x1, 28880, "Gift of the Naaru"),
 -- Races: Dranei
--- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Shaman, Mage
-(0x400, 0xF7, 28875, "Gemcutting"),
+-- Classes: Warrior, Paladin, Hunter, Priest, Death Knight, Shaman, Mage, Monk
+(0x400, 0x2F7, 28875, "Gemcutting"),
 -- Races: Dranei
 -- Classes: Warrior
 (0x400, 0x1, 59221, "Shadow Resistance"),
@@ -631,6 +634,12 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Races: Dranei
 -- Classes: Mage
 (0x400, 0x80, 59548, "Gift of the Naaru"),
+-- Races: Dranei
+-- Classes: Monk
+(0x400, 0x200, 132295, "Shadow Resistance"),
+-- Races: Dranei
+-- Classes: Monk
+(0x400, 0x200, 121093, "Gift of the Naaru"),
 -- Races: Worgen
 -- Classes: Warrior, Hunter, Rogue, Priest, Death Knight, Mage, Warlock, Druid
 (0x200000, 0x5BD, 79742, "Languages"),
