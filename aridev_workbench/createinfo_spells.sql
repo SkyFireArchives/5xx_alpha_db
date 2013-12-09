@@ -805,3 +805,48 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Races: Pandaren Neutral
 -- Classes: Warrior
 (0x400000, 0x1, 122475, "Throw"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 108562, "Monk Weapon Override Driver"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 107500, "<DND> Monk Energy Driver"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 103985, "Stance of the Fierce Tiger"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 120277, "Way of the Monk"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 119650, "Energy Usage"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 120275, "Way of the Monk"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 108977, "Way of the Monk"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 115612, "Expel Harm Driver"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 100780, "Jab"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 115074, "Fighting Style"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 128678, "Monk Jab Override Fist Login"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 110500, "Symbiosis"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 116812, "Parry"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 106904, "Armor Skills"),
+-- Races: All
+-- Classes: Monk
+(0x0, 0x512, 106902, "Weapon Skills");
