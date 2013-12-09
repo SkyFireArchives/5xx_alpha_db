@@ -811,48 +811,48 @@ INSERT INTO `playercreateinfo_spell` (`racemask`, `classmask`, `Spell`, `Note`) 
 -- Races: Pandaren Neutral
 -- Classes: Warrior
 (0x400000, 0x1, 122475, "Throw"),
--- Races: All
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 108562, "Monk Weapon Override Driver"),
--- Races: All
+(0x4006FF, 0x200, 108562, "Monk Weapon Override Driver"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 107500, "<DND> Monk Energy Driver"),
--- Races: All
+(0x4006FF, 0x200, 107500, "<DND> Monk Energy Driver"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 103985, "Stance of the Fierce Tiger"),
--- Races: All
+(0x4006FF, 0x200, 103985, "Stance of the Fierce Tiger"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 120277, "Way of the Monk"),
--- Races: All
+(0x4006FF, 0x200, 120277, "Way of the Monk"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 119650, "Energy Usage"),
--- Races: All
+(0x4006FF, 0x200, 119650, "Energy Usage"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 120275, "Way of the Monk"),
--- Races: All
+(0x4006FF, 0x200, 120275, "Way of the Monk"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 108977, "Way of the Monk"),
--- Races: All
+(0x4006FF, 0x200, 108977, "Way of the Monk"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 115612, "Expel Harm Driver"),
--- Races: All
+(0x4006FF, 0x200, 115612, "Expel Harm Driver"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 100780, "Jab"),
--- Races: All
+(0x4006FF, 0x200, 100780, "Jab"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 115074, "Fighting Style"),
--- Races: All
+(0x4006FF, 0x200, 115074, "Fighting Style"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 128678, "Monk Jab Override Fist Login"),
--- Races: All
+(0x4006FF, 0x200, 128678, "Monk Jab Override Fist Login"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 110500, "Symbiosis"),
--- Races: All
+(0x4006FF, 0x200, 110500, "Symbiosis"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 116812, "Parry"),
--- Races: All
+(0x4006FF, 0x200, 116812, "Parry"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 106904, "Armor Skills"),
--- Races: All
+(0x4006FF, 0x200, 106904, "Armor Skills"),
+-- Races: Human, Orc, Dwarf, Night elf, Undead, Tauren, Troll, Blood elf, Dranei, Pandaren(N)
 -- Classes: Monk
-(0x0, 0x512, 106902, "Weapon Skills");
+(0x4006FF, 0x200, 106902, "Weapon Skills");
